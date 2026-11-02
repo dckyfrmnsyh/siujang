@@ -17,7 +17,7 @@ Tandai `[x]` jika tugas sudah diverifikasi selesai.
 ---
 
 ## Fase 1: Setup Proyek & Fondasi Sistem
-- [ ] S07: Setup skeleton Laravel + Inertia Vue 3 + Tailwind CSS + DaisyUI/shadcn-vue
+- [x] S07: Setup skeleton Laravel + Inertia Vue 3 + Tailwind CSS + DaisyUI/shadcn-vue
 - [ ] S08: Migrasi database (`users`, `credit_packages`, `topup_requests`, `credit_transactions`, `projects`, `project_steps`, `documents`)
 - [ ] S09: Seeder awal (Role admin/guru, default `credit_packages`)
 - [ ] S10: Autentikasi Google OAuth via Laravel Socialite + bonus 10 kredit akun baru
